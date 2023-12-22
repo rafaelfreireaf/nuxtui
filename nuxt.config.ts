@@ -4,8 +4,5 @@ export default defineNuxtConfig({
   modules: [
     '@nuxt/ui',
     '@vueuse/nuxt'
-  ],
-  // plugins: [
-  //   '~/plugins/firebase.ts'
-  // ]
+  ]
 })
