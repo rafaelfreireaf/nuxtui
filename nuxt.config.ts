@@ -5,8 +5,7 @@ export default defineNuxtConfig({
     '@nuxt/ui',
     '@vueuse/nuxt'
   ],
-  plugins: [
-    '~/plugins/firebase.ts',
-    '~/plugins/firebase-messaging-sw.js'
-  ]
+  // plugins: [
+  //   '~/plugins/firebase.ts'
+  // ]
 })
